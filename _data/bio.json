@@ -29,19 +29,16 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "Biotechnology",
+      "keywords": []
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Botany",
       "keywords": [
       ]
     }
@@ -55,8 +52,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R"
       ]
     },
     {
@@ -65,20 +61,29 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows OS",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science, Data Science Focus (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-21",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Botany (expected Fall, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2017-08-21",
+      "endDate": "Present",
+      "gpa": "3.7",
       "courses": [
       ]
     }
