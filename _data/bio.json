@@ -103,8 +103,7 @@
     }
   ],
   "volunteer": [
-    {
-      /**
+    /*{
       "organization": "",
       "website": "",
       "position": "",
@@ -115,8 +114,7 @@
         "",
         ""
       ]
-      **/
-    }
+    }*/
   ],
   "awards": [
     /*{
