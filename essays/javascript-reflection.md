@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-draft: true
+title: Pleasently Suprised
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2020-09-03
 labels:
-  - Software Engineering
+  - JavaScript
   - Learning
 ---
 
