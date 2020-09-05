@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/battleship.png
+image: images/battleshiptitle.png
 title: Battleship
 permalink: projects/battleship
 # All dates must be YYYY-MM-DD format!
