@@ -8,7 +8,8 @@ permalink: projects/DTruppEagle
 date: 2020-09-04
 labels:
   - Boy Scout
-  - Eagle Scou
+  - Eagle Scout
+  - Garden
 summary: Eagle Scout Project where I led a group in reparing and improving a school garden.
 ---
 <div class="ui small rounded images">
