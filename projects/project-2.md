@@ -4,11 +4,11 @@ type: project
 image: images/vacay-square.png
 title: Vacay
 draft: true
-permalink: projects/vacay
+permalink: projects/DTruppEagle
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-09-04
 labels:
-  - R
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - 
+  - 
+summary: Eagle Scout Project .
 ---
