@@ -11,3 +11,9 @@ labels:
   - Eagle Scou
 summary: Eagle Scout Project where I led a group in reparing and improving a school garden.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/IMG_1395.jpg">
+  <img class="ui image" src="../images/IMG_1404.jpg">
+  <img class="ui image" src="../images/IMG_1525.jpg">
+  <img class="ui image" src="../images/plot.jpg>
+</div>
