@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-draft: true
-permalink: projects/cotton
+image: images/battleship.png
+title: Battleship
+permalink: projects/battleship
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-09-04
 labels:
-  - Lisp
+  - Java
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - GameDev
+summary: A battleship game my friends and I built in high school.
 ---
 
 
