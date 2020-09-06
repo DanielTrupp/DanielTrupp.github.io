@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/plot.JPG
+image: images/plot (2).JPG
 title: Felicita Elementary Garden
 permalink: projects/DTruppEagle
 # All dates must be YYYY-MM-DD format!
