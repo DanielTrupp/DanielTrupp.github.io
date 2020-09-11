@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Stackoverflow is Friendlier Than You Think
+title: Stack Overflow is Friendlier Than You Think
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-A key part of programming is troubleshooting. Whether it be a minor bug or strange behavior, you're likely to have questions if you spend time programming. Some problems will be solved by rereading your code aloud to a rubber duck (or convenient friend), but others will prove too vexing to just puzzle through. Thankfully, we have the internet, and the ability to search problems online. In many cases, problems aren't totally unique and someone else has had the exact same problem or one very similar to it. In those cases, it'll pop up at the top of the suggestions in the search engine of your choice, usually on the website, stackoverflow. There will be some cases however, where the problem you are looking for has yet to be identified by someone else. Those cases will have you being the poster to stackoverflow, and others answering your inquiry.
+A key part of programming is troubleshooting. Whether it be a minor bug or strange behavior, you're likely to have questions if you spend time programming. Some problems will be solved by rereading your code aloud to a rubber duck (or convenient friend), but others will prove too vexing to just puzzle through. Thankfully, we have the internet, and the ability to search problems online. In many cases, problems aren't totally unique; someone else has had the exact same problem or one very similar to it. In those cases, it'll pop up at the top of the suggestions in the search engine of your choice, usually on Stack Overflow. There will be some cases however, where the problem you are looking for has yet to be identified by someone else. In those cases, you will be the one posting to stackoverflow, and others answering your inquiry.
 
 ### Asking Good Questions
 
@@ -20,4 +20,4 @@ A good why question can be seen at [https://stackoverflow.com/questions/11227809
 
 While it can be easy to write questions that aren't that descriptive that give a general overview of the problem, you are unlikely to receive any meaningful help. Another why question, but one that is poorly written can be found at: [https://stackoverflow.com/questions/41137599/a-broken-image-destroys-login-session-why](https://stackoverflow.com/questions/41137599/a-broken-image-destroys-login-session-why). The user in this case doesn't have the best grammar, nor are they clear or informative about their problem. All that they provide is the information that a user logs into their site, and upon viewing a broken image, is logged out of the site. Without any code or extra information to go off of, people are left guessing and asking the user for additional information. No resolution to their problem is found.
 
-I find that a great first step to asking questions is googling them. You often will find ways to make your question clearer that will lead to the search results being closer to your problem, with better solutions. Additionally, observing the problems of others may give insight into how to solve your own problems, or answer a question you may have had with your own code. Asking questions is fundamental to learning, and the better your questions, the better your learning. In general, people are looking to help you understand more about coding, and those on stackoverflow are generally trying to help you solve your problem. 
+I find that a great first step to asking questions is googling them. You often will find ways to make your question clearer that will lead to the search results being closer to your problem, with better solutions. Additionally, observing the problems of others may give insight into how to solve your own problems, or answer a question you may have had with your own code. Asking questions is fundamental to learning, and the better your questions, the better your learning. In general, people are looking to help you understand more about coding, and those on Stack Overflow are generally trying to help you solve your problem. 
