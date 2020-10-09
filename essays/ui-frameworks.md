@@ -9,6 +9,6 @@ labels:
   - SemanticUI
 ---
 
-#h1 Beauty is in the Eye of the Beholder
+ Beauty is in the Eye of the Beholder
 
-Many people disagree on what something beautiful, but most people can agree what makes a user interface look decent and function well. 
+Many people disagree on what something beautiful, but most people can agree what makes a user interface look decent and function well. Creating said interfaces, however, can be time consuming and can produce some very long and confusing code. In order to make 
