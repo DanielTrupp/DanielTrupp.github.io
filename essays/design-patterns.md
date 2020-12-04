@@ -16,4 +16,4 @@ The concept has evolved since its introduction. While many design patterns show 
 
 ### When and Where are they Used
 
-As mentioned before, it is possible for individuals to use design patterns before they know what a design pattern is. I myself only learned the concept last week but I have applied them throughout my time programming.
+As mentioned before, it is possible for individuals to use design patterns before they know what a design pattern is. I myself only learned the concept last week but I have applied them throughout my time programming. Throughout academia, computer science professors will impart onto students a way of writing certain code. In pretty much every class I've taken, professors have stressed the idea that while there are many ways to solve a problem, some are better than others. In fact there's an entire class on algorithms taught at this university, the goal to impart good algorithm design skills.
