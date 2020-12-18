@@ -11,4 +11,4 @@ labels:
 
 ### A Broad Perspective
 
-A concept like software engineering is extremely complex and time consuming to realize, thus why universities have it as an upper-division course. The wide range of topics in such courses are designed to give studens an experience using the tools and methodology used by developers while providing instructional material.
+A concept like software engineering is extremely complex and time consuming to realize, thus why universities have it as an upper-division course. The wide range of topics in such courses are designed to give studens an experience using the tools and methodology used by developers while providing instructional material. At the core of any software development experience, there is the tech stack. This is the protocol of applications opened and steps taken to get to the baseline working environment. For example, one may open their web browser, then their github, then then create a project in githb, then clone it locally, then open that project in a development environment, then run a script to load packages, and the they would begin to code. 
