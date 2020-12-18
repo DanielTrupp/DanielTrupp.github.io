@@ -19,4 +19,4 @@ I just got through such a course on software development, and it was one of the 
 
 ### A Final Thought
 
-I think the most valuable skill for software deveopment is how to form good ahbits. Everything done can be made easier or faster with the right knowledge and some practice.
+I think the most valuable skill for software deveopment is how to form good habits. Everything done can be made easier or faster with the right knowledge and some practice.
