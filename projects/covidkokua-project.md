@@ -18,4 +18,8 @@ COVID-Kokua, titled Kokua-Hawaii on our website due to domain name acquisition i
 
 <img class="ui meduim rounded image" src="../images/COVIDKokuaFinancial.png">
 
+The `Financial Information` page was designed for usability, so that users of the website could contribute new resources if they appeared. We may not have the time or the knowledge to update the website with every new resource that is created, so providing an avenue for a user to fill in gaps in the resources is important to keeping an up-to-date list of available resources. This page loads resources from a `Mongo` collection, and adding new resources adds them to this collection. In this, if a user adds to a live website, that resource is available for anyone else viewing the site.
+
 <img class="ui meduim rounded image" src="../images/COVIDKokuaFAQ.png">
+
+The FAQ page is relatively barebones, but does contain useful information. We did not receive enough feedback concerned with the usability of the website to create a suite of questions regarding confusing aspects of the site.
