@@ -14,5 +14,6 @@ summary: A website designed to help users navigate the resources available to th
 
 <img class="ui meduim rounded image" src="../images/COVIDKokuaLanding.png">
 
+<img class="ui meduim rounded image" src="../images/COVIDKokuaFinancial.png">
 
-
+<img class="ui meduim rounded image" src="../images/COVIDKokuaFAQ.png">
