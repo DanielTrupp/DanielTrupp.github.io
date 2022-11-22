@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Daniel Trupp",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "https://DanielTrupp.github.io/images/DanielTruppPic.jpg",
     "email": "daniel.r.trupp@gmail.com",
     "phone": "(858) 774-5495",
@@ -69,7 +69,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science, Data Science Focus (expected Fall, 2021)",
+      "area": "Computer Science, Data Science Focus",
       "studyType": "B.S.",
       "startDate": "2017-08-21",
       "endDate": "2022-05-20",
@@ -79,7 +79,7 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Botany (expected Fall, 2021)",
+      "area": "Botany",
       "studyType": "B.S.",
       "startDate": "2017-08-21",
       "endDate": "2022-05-20",
